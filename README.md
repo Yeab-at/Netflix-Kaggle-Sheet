@@ -24,7 +24,7 @@ The table includes information such as:
 * Release year
 * Rating
 * Duration
-* Genres in subtype
+* Listed in (genres in subtype a-c for atomicity)
 
 SQL queries were used to investigate to check null entries.
 
