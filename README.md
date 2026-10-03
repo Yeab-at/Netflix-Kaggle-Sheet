@@ -1,5 +1,6 @@
 # Netflix-Kaggle-Sheet
-Tableau visualization from SQL by using a kaggle sheet
+Tableau visualization from SQL by using a kaggle sheet. 
+From source: https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization/suggestions
 
 
 ## Tools Used
